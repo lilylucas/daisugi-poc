@@ -1,4 +1,4 @@
-# JavaScript style guide hello
+# JavaScript style guide hello2
 
 > Beautiful is better than ugly.</br>
 > Explicit is better than implicit.</br>
